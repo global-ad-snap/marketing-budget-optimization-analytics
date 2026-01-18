@@ -68,6 +68,8 @@ The dataset reflects the type of **summary-level data** commonly available to an
 ```
 Market_Analytics/
 ├── data/
+│   └── raw/
+│       └── Dataset_Ads.csv
 │   └── processed/
 │       ├── ads_consultant_kpi.csv
 │       └── campaign_performance_summary.csv
