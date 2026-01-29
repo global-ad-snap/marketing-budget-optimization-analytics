@@ -23,7 +23,15 @@ The project mirrors real consulting engagements, where **data limitations and op
 
 
 ---
+## Key Findings
 
+**Primary Result**: Budget reallocation under current constraints yields negligible improvement (-0.06%), indicating the system is already near-optimized. 
+
+**Strategic Recommendation**: Focus on new channels, creative testing, or audience expansion rather than budget redistribution alone.
+
+**Why This Matters**: Demonstrating when optimization *doesn't* work prevents wasted experimentation and redirects resources toward higher-impact initiatives like creative development, new audience segments, or channel diversification.
+
+---
 ## Business Problem
 
 Marketing teams frequently ask:
@@ -177,6 +185,8 @@ The visual analysis explains *why* uplift is minimal:
 * Few extreme outliers exist to exploit
 ![Conversion Efficiency Distribution](visuals/conversion_efficiency_distribution.png)  
 *Figure 2. Conversion Efficiency Distribution*
+Most campaigns cluster between 0.3-0.5 conversions per dollar, 
+limiting the potential impact of reallocation.
 
 ### Budget Change vs. Efficiency
 
