@@ -287,6 +287,41 @@ This finding directly explains why budget optimization resulted in negligible up
 
 ---
 
+## Business Impact
+
+### Potential Value Drivers
+
+This project is designed to support measurable operational or financial impact, including:
+
+- Improved decision accuracy
+- Operational efficiency gains
+- Risk reduction
+- Resource optimization
+- Revenue protection or growth
+
+### Example Deployment Benefits
+
+Actual impact depends on deployment context, data quality, and operational integration. Potential benefits may include:
+
+- Reduced operational costs through earlier risk identification
+- Improved allocation of staff, inventory, or marketing resources
+- Enhanced decision support for clinical or business stakeholders
+- Increased transparency and confidence in analytics-driven decisions
+
+### Measurement Considerations
+
+Typical ROI evaluation would include:
+
+- Baseline vs post-deployment performance comparison
+- Cost savings analysis
+- Revenue uplift measurement
+- Error reduction metrics
+- Operational efficiency indicators
+
+Formal ROI validation requires real-world deployment data.
+
+---
+
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run notebooks in order from `01_` to `05_`
